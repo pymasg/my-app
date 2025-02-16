@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.title("💌 Wishing Card for [Name]")
+st.title("💌 Wishing Card for Sir Luqman")
 st.subheader("Leave your heartfelt message below")
 
 # Message input
